@@ -1,3 +1,10 @@
+## For my peers
+* All plots created by R scripts are located in plots directory.
+* makefile and setup.sh are for downloading and unzipping data source.
+* data_prep.R loads data from file.
+* all plot[1-4].R files need to run data_prep.R before make a plot.
+* run.R will load data and create plot[1-4].png files.
+
 ## Introduction
 
 This assignment uses data from
